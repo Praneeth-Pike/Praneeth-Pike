@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praneeth-Pike
 - 👀 I’m interested in Design, Front end technologies, Human mind and Business. 
-- 🌱 I’m currently learning Backend things like SwiftUI, Database design, and launching MVPs fast. 
+- 🌱 I’m currently learning Swift UI, Database design, and launching MVPs fast. 
 - 📫 Reach me on twitter @praneethpike
 
 <!---
